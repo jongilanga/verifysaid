@@ -1,5 +1,5 @@
 # verifysaid
-Verify South Africa ID, using http://www.verifyid.co.za/
+Verify South African ID, using http://www.verifyid.co.za/
 
 #Usage
 In order to use verify.php, you will need to register to:
